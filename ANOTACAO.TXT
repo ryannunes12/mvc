@@ -1,0 +1,4 @@
+npm init -y
+npm i -g typescript
+npm i ts-node
+npm i express
