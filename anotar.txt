@@ -1,0 +1,7 @@
+ANTES DE TUDO 
+
+npm i -> instalar as dependencias
+.env -> refazer depois de baixar do GitHub
+
+PARA RODAR O SERVIDOR UTILIZAR O COMANDO 
+nps ts-node src/app.ts
